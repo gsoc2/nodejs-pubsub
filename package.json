@@ -62,7 +62,7 @@
     "heap-js": "^2.2.0",
     "is-stream-ended": "^0.1.4",
     "lodash.snakecase": "^4.1.1",
-    "p-defer": "^3.0.0"
+    "p-defer": "^4.0.0"
   },
   "devDependencies": {
     "@grpc/proto-loader": "^0.7.0",
